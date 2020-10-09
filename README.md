@@ -16,11 +16,9 @@ We hope you have fun this semester, and encourage you to reach out to any of us 
 ### Course Curriculumn
 - [Session 1: Crash Course JS](https://tinyurl.com/codesprint-s1)
 - [Session 2: Intro to React](https://tinyurl.com/codesprint-s2)
-<!--
 - [Session 3: Dive Into React Native](https://tinyurl.com/codesprint-s3)
 - [Session 4: Views and APIs](https://tinyurl.com/codesprint-s4)
 - [Session 5: Deployment and Testing](https://tinyurl.com/codesprint-s5)
--->
 
 ### Essential Links
 - [ACM Website](acm.ecs.fullerton.edu/)
